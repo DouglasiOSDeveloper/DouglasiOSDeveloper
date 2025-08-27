@@ -92,8 +92,8 @@ As the manager of **Agência ThiFi**, I lead cross-functional teams, aligning te
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasiOSDeveloper&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1" height="165" />
 </p>
 <p align="center">
-  <img alt="GitHub Streak" 
-       src="https://streak-stats.demolab.com?user=DouglasiOSDeveloper&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=3B82F6&currStreakNum=FFFFFF&currStreakLabel=3B82F6&cache_seconds=7200&v=1" height="165" />
+   <img alt="GitHub Streak" 
+       src="https://streak-stats.demolab.com?user=DouglasiOSDeveloper&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
 </p>
 
 <p align="center">
