@@ -86,11 +86,14 @@ As the manager of **Agência ThiFi**, I lead cross-functional teams, aligning te
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DouglasiOSDeveloper&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasiOSDeveloper&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img alt="GitHub Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=DouglasiOSDeveloper&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1" height="165" />
+  <img alt="Top Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasiOSDeveloper&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1" height="165" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DouglasiOSDeveloper&theme=tokyonight&hide_border=true" height="165" />
+  <img alt="GitHub Streak" 
+       src="https://streak-stats.demolab.com?user=DouglasiOSDeveloper&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=3B82F6&currStreakNum=FFFFFF&currStreakLabel=3B82F6&cache_seconds=7200&v=1" height="165" />
 </p>
 
 <p align="center">
@@ -111,6 +114,6 @@ As the manager of **Agência ThiFi**, I lead cross-functional teams, aligning te
 <p align="center"><i>“Each project I build is an opportunity to combine technology, creativity, and strategy to make an impact.”</i></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DouglasiOSDeveloper/DouglasiOSDeveloper/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/DouglasiOSDeveloper/DouglasiOSDeveloper/output/snake.svg" alt="snake animation" />
 </p>
 
