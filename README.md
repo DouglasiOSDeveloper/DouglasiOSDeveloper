@@ -97,10 +97,8 @@ As the manager of **Agência ThiFi**, I lead cross-functional teams, aligning te
 </p>
 
 <p align="center">
-  <img
-    alt="GitHub Trophies"
-    src="https://github-profile-trophy.vercel.app/?username=DouglasiOSDeveloper&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6&v=1"
-  />
+  <img alt="Profile Details"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglasiOSDeveloper&theme=tokyonight&v=1" />
 </p>
 
 ---
